@@ -1,0 +1,20 @@
+{
+  "name": "nodecd2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "miniChatbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "chalk": "^5.2.0",
+    "enquirer": "^2.3.6",
+    "minimist": "^1.2.8",
+    "nodemon": "^2.0.22",
+    "prompt-sync": "^4.2.0"
+  }
+}
